@@ -2,22 +2,11 @@
 title: trailsapp
 ---
 
-I think it would be interesting to create an outdoor-activity federated service based on [[activitypub]], similar to what mastodon has done for microblogging or what funkwhale has done for music. I've set up [a public Matrix room](https://matrix.to/#/#trailsapp:matrix.org) to discuss this -- if you're reading this, you're invited to join the project! Come drop by and chat -- we'll take help from anyone: potential users, developers, designers, project managers, privacy experts, and so on.
-
-## TODOs
-
-Broad strokes, some things we need to do:
-- Choose a name
-- Set up a github organization for coordinating efforts
-- Set up a repository for the server
-- Design a basic api
-- Set up a repository for the client
-- Deploy a web client
-- Deploy Android, iOS, and Windows clients
+I think it would be interesting to create an outdoor-activity federated service based on [[activitypub]], similar to what mastodon has done for microblogging or what funkwhale has done for music. I've set up [a public Matrix room](https://matrix.to/#/#trailsapp:matrix.org) to discuss this -- if you're reading this, you're invited to join the project! Come drop by and chat -- we'll take help from anyone: potential users, developers, designers, project managers, privacy experts, and so on. Additionallys, come join the project [on codeberg](https://codeberg.org/wombat/).
 
 ## Names
 
-Traditionally, fediverse project have an animal associated with it. Personally, my spirit animal is the wombat, so that's high on the list for me, but a quokka or capybara would also be very fun.
+Traditionally, fediverse project have an animal associated with it. In the short term, we've chosen the wombat, based on the results of a poll in the Matrix channel. Long-term, we aspire to have a name that describes what we do.
 
 ## Simple user stories
 
