@@ -24,4 +24,4 @@ USL W is a pre-professional league, so players cannot be paid salaries. Players 
 
 ## Governance
 
-It would be fun to start the club as a community-owned club, governed under [a constitution](https://thedonstrust.org/constitution/), and registered as a non-profit organization, like the Green Bay Packers.
+It would be fun to start the club as a community-owned club, governed under [a constitution](https://thedonstrust.org/constitution/), and registered as a non-profit organization, like the Green Bay Packers. It would also be fun if this were the development team for OL Reign.
