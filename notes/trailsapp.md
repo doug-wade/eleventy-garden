@@ -27,7 +27,7 @@ Traditionally, fediverse project have an animal associated with it. Personally, 
 - As a kayaker, I want to record a free-style paddle and share it with my friends
 - As a park ranger, I want to report when a trail is unsafe for use
 - As a tourist, I want to discover trails near my vacation zone
-- As a city dweller, I want to be able to do "challenges" that are the distance of famous trails
+- As a city dweller, I want to be able to do [challenges](https://www.theconqueror.events/all-challenges/)
 
 ## Client
 
