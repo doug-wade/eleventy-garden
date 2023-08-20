@@ -54,3 +54,8 @@ This gives users three tiers of privacy: public, private, and public with extra 
 We should try to apply for grants when possible to fund development. Here's a starting point for grants to apply for
 
 - https://socialhub.activitypub.rocks/t/grants-and-funding-for-our-projects/86
+
+
+## UX Research
+
+- https://lemmy.world/post/3394899
