@@ -2,14 +2,13 @@
 title: trailsapp
 ---
 
-I think it would be interesting to create an outdoor-activity federated service based on [[activitypub]], similar to what mastodon has done for microblogging or what funkwhale has done for music. I've set up [a public Matrix room](https://matrix.to/#/#trailsapp:matrix.org) to discuss this -- if you're reading this, you're invited to join the project! Come drop by and chat -- we'll take help from anyone: potential users, developers, designers, project managers, privacy experts, and so on.
+I think it would be interesting to create an outdoor-activity federated service based on [[activitypub]], similar to what mastodon has done for microblogging or what funkwhale has done for music. I've set up [a public Matrix room](https://matrix.to/#/#trailsapp:matrix.org) and [a Codeberg organization](https://codeberg.org/wombat) to discuss this -- if you're reading this, you're invited to join the project! Come drop by and chat -- we'll take help from anyone: potential users, developers, designers, project managers, privacy experts, and so on.
 
 ## TODOs
 
 Broad strokes, some things we need to do:
 
 - Choose a name
-- Set up a github organization for coordinating efforts
 - Set up a repository for the server
 - Design a basic api
 - Set up a repository for the client
@@ -18,7 +17,7 @@ Broad strokes, some things we need to do:
 
 ## Names
 
-Traditionally, fediverse project have an animal associated with it. Personally, my spirit animal is the wombat, so that's high on the list for me, but a quokka or capybara would also be very fun.
+Traditionally, fediverse project have an animal associated with it, like mastodon, lemmy, funkwhale or bookwyrm. Currently, we're using the name wombat, but it's certainly still open for revisiting if we decide a name that reflects what the product does makes more sense.
 
 ## Simple user stories
 
@@ -31,7 +30,7 @@ Traditionally, fediverse project have an animal associated with it. Personally, 
 
 ## Client
 
-I would prefer to write the first client with [[tybalt]], and use a component library that is hosted in a web view for the mobile clients. I'm selfish and want to use my own web client to exercise it, and also the first client is mostly about a proof-of-concept -- most people will hopefully use a native app developed by other open-source teams.
+I would prefer to write the first client with [[tybalt]], and use a component library that is hosted in a web view for the mobile clients. I'm selfish and want to use my own web client to exercise it, and also the first client is mostly about a proof-of-concept -- most people will hopefully use a native app developed by other open-source teams. If we get frontend developers who are interested in contributing, though, we should try to use a framework which is better suited for collaboration, like React or Lit.
 
 There are two different groups of users, but I think we can serve them both from a single client. The two biggest use cases are end users sharing activity, and administrators editing trails and communities. I think we'll have a better time with an RBAC system, where users are granted permissions based on roles (user, moderator, admin) that progressively discloses more functionality on a single client than multiple clients for different roles (an admin dashboard and a consumer app, for instance).
 
@@ -54,7 +53,6 @@ This gives users three tiers of privacy: public, private, and public with extra 
 We should try to apply for grants when possible to fund development. Here's a starting point for grants to apply for
 
 - https://socialhub.activitypub.rocks/t/grants-and-funding-for-our-projects/86
-
 
 ## UX Research
 
